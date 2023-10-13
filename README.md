@@ -1,6 +1,6 @@
 # Online-Bookstore
 
 ## Credits
-Den Carlo Dumlao
-Stanley Tan
-Mustafa Ahmadzai
+* Den Carlo Dumlao
+* Stanley Tan
+* Mustafa Ahmadzai
